@@ -13,7 +13,7 @@ Dana was interested in enriching the user’s experience further to slice the da
 ![cTable](https://user-images.githubusercontent.com/82008319/126075460-888568db-05c3-4a53-9bd3-74837d5fee08.JPG)
 
 ## Result
-As a result, the user can not only parse UFO sighting by date, but they can also input a particular state and see how many sightings were found on a particular day in a particular state without even selecting a button. The user can also drill down further and include a city and a shape. The user can even backspace to clear the date and find the number of sightings for just a particular shape across the country for the entire date range, or back up again and just find the number of sightings in a particular city. I was so excited to find that there was one sighting in my hometown of <a href=https://www.cityoflompoc.com/>Lompoc, CA.</a> 
+As a result, the user can not only parse UFO sighting by date, but they can also input a specific state and see how many sightings were found on a particular day in that state without even pushing a button. The user can also drill down further and include a city and a shape. The user can even backspace to clear the date and find the number of sightings for just a particular shape in that city for the entire date range, or back up some more by clearing the city and state to find the number of sightings of the chosen shape across the country for the entire date range. In my playful exploration of the data, I was super excited to find that there was one sighting in my hometown of <a href=https://www.cityoflompoc.com/>Lompoc, CA.</a> 
 
 ![srchCity](https://user-images.githubusercontent.com/82008319/126075477-3fe537a4-d0f0-4485-ab04-a3ff55941c6a.JPG)
 
